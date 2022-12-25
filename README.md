@@ -2,7 +2,7 @@
 
 Meme generator using the Memegen API at https://memegen.link.
 
-Check out the app at - 
+Check out the app at - https://kitmemegenerator.netlify.app
 
 ## To use:
 
@@ -17,7 +17,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: ´npm i´
+In the project directory, you can run:
+
+### `npm i`
 
 ### `npm start`
 
