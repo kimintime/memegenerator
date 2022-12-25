@@ -1,10 +1,23 @@
+# Introduction
+
+Meme generator using the Memegen API at https://memegen.link.
+
+Check out the app at - 
+
+## To use:
+
+1. Browse to the meme of your choice and click 'Generate'.
+2. Enter the text you'd like, and select 'Generate'.
+3. To go back to browsing, simply select 'Change Template'.
+4. To use the default meme text, left the text fields blank and select 'Generate'.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: ´npm i´
 
 ### `npm start`
 
